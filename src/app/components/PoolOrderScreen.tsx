@@ -30,7 +30,7 @@ export default function PoolOrderScreen({ onClose }: PoolOrderScreenProps) {
   const comboDishes = [
    {
     id: 1,
-    name: 'Salada Premium',
+    name: 'Salada',
     description: 'Alface, Tomates, brocolis',
     price: 59.90,
     image: 'https://cdn0.tudoreceitas.com/pt/posts/6/8/2/salada_de_salmao_e_pepino_3286_1200.jpg',
